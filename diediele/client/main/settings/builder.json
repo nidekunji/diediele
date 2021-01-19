@@ -1,0 +1,60 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.diediele",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "fdb891fa-39b2-4c5e-a6a2-185aa0064086",
+  "title": "diediele",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://huanlewanyiba-1256658787.cos.ap-guangzhou.myqcloud.com",
+    "appid": "wx3c978bbadc1bec06",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "wxopendata"
+  },
+  "xxteaKey": "2828e295-dced-4b",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "org.cocos2d.diediele"
+  },
+  "ios": {
+    "packageName": "org.cocos2d.diediele"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.diediele"
+  },
+  "win32": {},
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.diediele",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
+}

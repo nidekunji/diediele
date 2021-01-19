@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "266e1df8-0f05-4ea0-85e5-93b17ad07b07",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "获得免费体力底框": {
+      "ver": "1.0.3",
+      "uuid": "becb15fe-46f5-4898-a5d8-a04dbf8262fa",
+      "rawTextureUuid": "266e1df8-0f05-4ea0-85e5-93b17ad07b07",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 568,
+      "height": 623,
+      "rawWidth": 568,
+      "rawHeight": 623,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

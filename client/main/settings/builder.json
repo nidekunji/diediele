@@ -1,0 +1,42 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
+  "excludeScenes": [
+    "1f7cc35d-1eb8-4449-8731-7223cb7e132f"
+  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.diediele",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "startScene": "8060b2a8-899e-4189-9f50-1009a8a876c6",
+  "title": "diediele",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://moneygame.dianjinyouxi.com",
+    "appid": "wxf8f2ea3068eff538",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": "wxopendata"
+  },
+  "xxteaKey": "2828e295-dced-4b",
+  "zipCompressJs": true
+}

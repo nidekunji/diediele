@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "26a8edaa-5b88-412d-9920-8123a3e700ac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "lotterydraw_timedbag_tip": {
+      "ver": "1.0.3",
+      "uuid": "6b83859a-67d4-4ed0-892e-5a5ec98eb7dc",
+      "rawTextureUuid": "26a8edaa-5b88-412d-9920-8123a3e700ac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 678,
+      "height": 239,
+      "rawWidth": 678,
+      "rawHeight": 239,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
